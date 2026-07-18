@@ -13,7 +13,7 @@ The primary goal is to minimize coupling between components and ensure each laye
 ```
 +------------------------------------------------------+
 |                  MFC Application                     |
-|                  (CHelloMFCApp)                      |
+|                  (CInventoryManagerApp)                      |
 +---------------------------+--------------------------+
                             |
                             v
